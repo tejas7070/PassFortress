@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/passfortress.git
+git clone https://github.com/tejas7070/passfortress.git
 cd passfortress
 Open the project: Open the index.html file in your preferred web browser.
 
