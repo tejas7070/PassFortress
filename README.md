@@ -23,7 +23,7 @@ Choose Character Sets: Check the boxes to include uppercase letters, lowercase l
 Generate Password: Click the "Generate Password" button to create a new random password.
 Copy Password: Click the "Copy to Clipboard" button to copy the generated password for easy use.
 Contributing
-We welcome contributions from the community! If you'd like to contribute, please fork the repository and create a pull request with your changes. Be sure to follow our [code of conduct](link to code of conduct) and [contributing guidelines](link to contributing guidelines).
+We welcome contributions from the community! If you'd like to contribute, please fork the repository and create a pull request with your changes. 
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
